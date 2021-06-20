@@ -6,9 +6,11 @@
   "dependencies": {
     "cypress": "^7.5.0"
   },
-  "devDependencies": {},
+  "devDependencies": {
+    "eslint-plugin-cypress": "^2.11.3"
+  },
   "scripts": {
-    "test-cypress":"cypress open",
+    "test-cypress": "cypress open",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {

@@ -31,6 +31,7 @@ context('Actions', () => {
       // like whether the input is visible or disabled
       .type('disabled error checking', { force: true })
       .should('have.value', 'disabled error checking')
+     
   })
 
   it('.focus() - focus on a DOM element', () => {
