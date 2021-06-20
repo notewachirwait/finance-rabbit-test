@@ -1,1 +1,15 @@
-{}
+{
+    "video": false,
+	"viewportHeight": 900,
+	"viewportWidth": 1440,
+	"defaultCommandTimeout": 15000,
+	"requestTimeout": 40000,
+	"responseTimeout": 40000,
+	"chromeWebSecurity": false,
+    "baseUrl": "https://staging-finance.rabbitinternet.com",
+	"retries": {
+		"runMode": 2,
+		"openMode": 1
+	}
+}
+
