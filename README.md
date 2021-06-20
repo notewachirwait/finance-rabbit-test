@@ -1,3 +1,13 @@
 # finance-rabbit-test
-npm i 
-npm run test-cypress
+```bash
+# install dependencies
+$ npm install
+
+# cypress run open mode
+$ npm run test-cypress
+
+
+# cypress run headless mode
+$ npm run test-cypress-headless
+
+```
