@@ -61,6 +61,7 @@ describe('Rabbit finance test', () => {
                 cy.get(SELECTORS.BUTTON_NEXT_DATE).click();
                 cy.get(SELECTORS.CONSENT).click();
                 cy.get(SELECTORS.BUTTON_CONFIRM_CONSENT).click();
+                cy.wait('@bypass').its('response.statusCode').should('eq', 401);
 
                 cy.get(SELECTORS.DROP_DOWN_HEALTH_CATEGORY).select('Specific Disease').should('have.value', 'disease');
                 cy.get(SELECTORS.DROP_DOWN_TYPE).eq(2).select('Office syndrome').should('have.value', 'officialSyndrome');
@@ -94,6 +95,7 @@ describe('Rabbit finance test', () => {
                 cy.get(SELECTORS.BUTTON_NEXT_DATE).click();
                 cy.get(SELECTORS.CONSENT).click();
                 cy.get(SELECTORS.BUTTON_CONFIRM_CONSENT).click();
+                cy.wait('@bypass').its('response.statusCode').should('eq', 401);
 
                 cy.get(SELECTORS.DROP_DOWN_HEALTH_CATEGORY).select('Personal Accident').should('have.value', 'pa');
                 cy.get(SELECTORS.DROP_DOWN_TYPE).eq(2).select('Extreme sport accidents').should('have.value', 'extremeSportAccidents');
