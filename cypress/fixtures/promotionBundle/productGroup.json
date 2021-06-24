@@ -1,0 +1,33 @@
+{
+  "data": {
+    "primary_sku_uid": "lere2v",
+    "primary_sku_slug": "apple-acc-12-w-usb-power-adapter-885909629053",
+    "primary_sku_categories": [
+      {
+        "id": 5,
+        "slug": "apple",
+        "name": "\u0e41\u0e2d\u0e1b\u0e40\u0e1b\u0e34\u0e49\u0e25",
+        "parent": null
+      }
+    ],
+    "product_group_name": "Apple Acc 12 W USB Power Adapter",
+    "skus": [
+      {
+        "uid": "lere2v",
+        "sku": "885909629053",
+        "slug": "apple-acc-12-w-usb-power-adapter-885909629053",
+        "name": "Apple Acc 12 W USB Power Adapter",
+        "categories": [
+          {
+            "id": 5,
+            "slug": "apple",
+            "name": "\u0e41\u0e2d\u0e1b\u0e40\u0e1b\u0e34\u0e49\u0e25",
+            "parent": null
+          }
+        ],
+        "variants": []
+      }
+    ],
+    "variants": []
+  }
+}

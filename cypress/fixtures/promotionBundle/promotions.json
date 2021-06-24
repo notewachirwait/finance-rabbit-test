@@ -1,0 +1,1001 @@
+{
+  "data": {
+    "promotions": [
+      {
+        "id": 389,
+        "type": "BUNDLE",
+        "display_name": "Tao - Bundle + Pre-order ลด 50%",
+        "detail_description": "รายละเอียดโปรโมชั่น Tao - Bundle + Pre-order ลด 50%",
+        "cart_description": "",
+        "is_applied": true,
+        "end_at": "2021-04-30T16:59:00.000000Z",
+        "is_cart_visible": false,
+        "bundle_name": "Tao - Bundle + Pre-order ลด 50%",
+        "free_gifts": {
+          "total_price": 154000,
+          "items": [
+            {
+              "promotion_id": 389,
+              "quantity": 2,
+              "is_available": true,
+              "reward_quantity": 2,
+              "item": {
+                "uid": "9xe4ek",
+                "sku": "888462756860",
+                "slug": "apple-acc-apple-pencil-tips-4-pack-888462756860",
+                "name": "Apple Acc Apple Pencil Tips 4 pack",
+                "brand": "APPLE",
+                "selling_price": 77000,
+                "srp_price": 79000,
+                "product_group_slug": "apple-acc-apple-pencil-tips-4-pack",
+                "items_in_stock": 787,
+                "in_stock": true,
+                "is_active": true,
+                "is_eol": false,
+                "files": [
+                  {
+                    "id": 42147,
+                    "medium": {
+                      "name": "Apple-Acc-Apple-Pencil-Tips4-pack-01",
+                      "file_name": "Apple-Acc-Apple-Pencil-Tips4-pack-01.jpg",
+                      "type": "product_image",
+                      "url": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-square_medium.jpg",
+                      "covers": {
+                        "original": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01.jpg",
+                        "thumbnail": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-thumbnail.jpg",
+                        "square_small": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-square_small.jpg",
+                        "square_medium": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-square_medium.jpg",
+                        "category_banner_medium": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-category_banner_medium.jpg",
+                        "homepage_mobile_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_mobile_banner_medium.jpg",
+                        "homepage_mobile_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_mobile_banner_retina_medium.jpg",
+                        "homepage_desktop_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_desktop_banner_medium.jpg",
+                        "homepage_desktop_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_desktop_banner_retina_medium.jpg",
+                        "homepage_small_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_small_banner_medium.jpg",
+                        "homepage_small_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_small_banner_retina_medium.jpg",
+                        "homepage_highlight_1_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_1_banner_medium.jpg",
+                        "homepage_highlight_1_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_1_banner_retina_medium.jpg",
+                        "homepage_highlight_2_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_2_banner_medium.jpg",
+                        "homepage_highlight_2_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_2_banner_retina_medium.jpg",
+                        "homepage_highlight_3_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_3_banner_medium.jpg",
+                        "homepage_highlight_3_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_3_banner_retina_medium.jpg"
+                      }
+                    }
+                  }
+                ],
+                "reward_quantity": 2
+              }
+            }
+          ]
+        },
+        "apply_every": null
+      },
+      {
+        "id": 417,
+        "type": "BUNDLE",
+        "display_name": "Set 2: Tao - Bundle + Pre-order ลด 50%",
+        "detail_description": "รายละเอียดโปรโมชั่น Set 2: Tao - Bundle + Pre-order ลด 50%",
+        "cart_description": "",
+        "is_applied": true,
+        "end_at": "2021-04-25T16:59:00.000000Z",
+        "is_cart_visible": false,
+        "bundle_name": "Set 2: Tao - Bundle + Pre-order ลด 50%",
+        "free_gifts": {
+          "total_price": 154000,
+          "items": [
+            {
+              "promotion_id": 417,
+              "quantity": 2,
+              "is_available": true,
+              "reward_quantity": 2,
+              "item": {
+                "uid": "9xe4ek",
+                "sku": "888462756860",
+                "slug": "apple-acc-apple-pencil-tips-4-pack-888462756860",
+                "name": "Apple Acc Apple Pencil Tips 4 pack",
+                "brand": "APPLE",
+                "selling_price": 77000,
+                "srp_price": 79000,
+                "product_group_slug": "apple-acc-apple-pencil-tips-4-pack",
+                "items_in_stock": 787,
+                "in_stock": true,
+                "is_active": true,
+                "is_eol": false,
+                "files": [
+                  {
+                    "id": 42147,
+                    "medium": {
+                      "name": "Apple-Acc-Apple-Pencil-Tips4-pack-01",
+                      "file_name": "Apple-Acc-Apple-Pencil-Tips4-pack-01.jpg",
+                      "type": "product_image",
+                      "url": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-square_medium.jpg",
+                      "covers": {
+                        "original": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01.jpg",
+                        "thumbnail": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-thumbnail.jpg",
+                        "square_small": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-square_small.jpg",
+                        "square_medium": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-square_medium.jpg",
+                        "category_banner_medium": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-category_banner_medium.jpg",
+                        "homepage_mobile_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_mobile_banner_medium.jpg",
+                        "homepage_mobile_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_mobile_banner_retina_medium.jpg",
+                        "homepage_desktop_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_desktop_banner_medium.jpg",
+                        "homepage_desktop_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_desktop_banner_retina_medium.jpg",
+                        "homepage_small_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_small_banner_medium.jpg",
+                        "homepage_small_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_small_banner_retina_medium.jpg",
+                        "homepage_highlight_1_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_1_banner_medium.jpg",
+                        "homepage_highlight_1_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_1_banner_retina_medium.jpg",
+                        "homepage_highlight_2_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_2_banner_medium.jpg",
+                        "homepage_highlight_2_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_2_banner_retina_medium.jpg",
+                        "homepage_highlight_3_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_3_banner_medium.jpg",
+                        "homepage_highlight_3_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_3_banner_retina_medium.jpg"
+                      }
+                    }
+                  }
+                ],
+                "reward_quantity": 2
+              }
+            }
+          ]
+        },
+        "apply_every": null
+      },
+      {
+        "id": 484,
+        "type": "COUPON",
+        "display_name": "ลด 50%",
+        "detail_description": "ลด 50%",
+        "cart_description": "-ลด 50%",
+        "is_applied": true,
+        "end_at": "2021-05-31T16:59:00.000000Z",
+        "is_cart_visible": true,
+        "code": "TAOXXXX",
+        "is_multi_code": true,
+        "reward_type": "FIXED_DISCOUNT",
+        "value": 2000,
+        "apply_every": null
+      },
+      {
+        "id": 364,
+        "type": "COUPON",
+        "display_name": "Discount 10% with TAO coupon",
+        "detail_description": "Discount 10% with TAO coupon",
+        "cart_description": "Reach - Discount 10% with TAO coupon",
+        "is_applied": true,
+        "end_at": "2021-04-30T16:59:00.000000Z",
+        "is_cart_visible": false,
+        "code": "TAO84983",
+        "is_multi_code": false,
+        "reward_type": "PERCENT_DISCOUNT",
+        "value": 10,
+        "apply_every": null
+      },
+      {
+        "id": 445,
+        "type": "COUPON",
+        "display_name": "test - coupon",
+        "detail_description": "test - coupon",
+        "cart_description": "-",
+        "is_applied": true,
+        "end_at": "2021-04-30T16:59:00.000000Z",
+        "is_cart_visible": false,
+        "code": "qqXXXX",
+        "is_multi_code": true,
+        "reward_type": "PERCENT_DISCOUNT",
+        "value": 20,
+        "apply_every": null
+      }
+    ],
+    "coupons": [
+      {
+        "code": "TAO6628026012",
+        "is_valid": true,
+        "promotion": {
+          "id": 484,
+          "type": "COUPON",
+          "display_name": "ลด 50%",
+          "detail_description": "ลด 50%",
+          "cart_description": "-ลด 50%",
+          "is_applied": true,
+          "end_at": "2021-05-31T16:59:00.000000Z",
+          "is_cart_visible": true,
+          "code": "TAOXXXX",
+          "is_multi_code": true
+        }
+      }
+    ],
+    "bundles": [
+      {
+        "id": 389,
+        "type": "BUNDLE",
+        "display_name": "Tao - Bundle + Pre-order ลด 50%",
+        "bundle_name": "Tao - Bundle + Pre-order ลด 50%",
+        "detail_description": "รายละเอียดโปรโมชั่น Tao - Bundle + Pre-order ลด 50%",
+        "items": [
+          {
+            "id": 13113,
+            "quantity": 2,
+            "item": {
+              "uid": "lere2v",
+              "sku": "885909629053",
+              "slug": "apple-acc-12-w-usb-power-adapter-885909629053",
+              "name": "Apple Acc 12 W USB Power Adapter",
+              "type": "normal",
+              "brand": "APPLE",
+              "selling_price": 65500,
+              "srp_price": 69000,
+              "free_gifts": {
+                "total_price": 0,
+                "items": []
+              },
+              "product_group_slug": "apple-acc-12-w-usb-power-adapter",
+              "items_in_stock": 80,
+              "in_stock": true,
+              "is_pre_order": false,
+              "is_active": true,
+              "is_eol": true,
+              "files": [
+                {
+                  "id": 40223,
+                  "medium": {
+                    "name": "885909629053-01",
+                    "file_name": "885909629053-01.jpg",
+                    "type": "product_image",
+                    "url": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-square_medium.jpg",
+                    "covers": {
+                      "original": "http://media.bnn.dev.maqehq.com/40229/885909629053-01.jpg",
+                      "thumbnail": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-thumbnail.jpg",
+                      "square_small": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-square_small.jpg",
+                      "square_medium": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-square_medium.jpg",
+                      "category_banner_medium": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-category_banner_medium.jpg",
+                      "homepage_mobile_banner": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_mobile_banner_medium.jpg",
+                      "homepage_mobile_banner_retina": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_mobile_banner_retina_medium.jpg",
+                      "homepage_desktop_banner": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_desktop_banner_medium.jpg",
+                      "homepage_desktop_banner_retina": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_desktop_banner_retina_medium.jpg",
+                      "homepage_small_banner": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_small_banner_medium.jpg",
+                      "homepage_small_banner_retina": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_small_banner_retina_medium.jpg",
+                      "homepage_highlight_1_banner": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_highlight_1_banner_medium.jpg",
+                      "homepage_highlight_1_banner_retina": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_highlight_1_banner_retina_medium.jpg",
+                      "homepage_highlight_2_banner": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_highlight_2_banner_medium.jpg",
+                      "homepage_highlight_2_banner_retina": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_highlight_2_banner_retina_medium.jpg",
+                      "homepage_highlight_3_banner": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_highlight_3_banner_medium.jpg",
+                      "homepage_highlight_3_banner_retina": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_highlight_3_banner_retina_medium.jpg"
+                    }
+                  }
+                },
+                {
+                  "id": 40224,
+                  "medium": {
+                    "name": "885909629053-02",
+                    "file_name": "885909629053-02.jpg",
+                    "type": "product_image",
+                    "url": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-square_medium.jpg",
+                    "covers": {
+                      "original": "http://media.bnn.dev.maqehq.com/40230/885909629053-02.jpg",
+                      "thumbnail": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-thumbnail.jpg",
+                      "square_small": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-square_small.jpg",
+                      "square_medium": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-square_medium.jpg",
+                      "category_banner_medium": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-category_banner_medium.jpg",
+                      "homepage_mobile_banner": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_mobile_banner_medium.jpg",
+                      "homepage_mobile_banner_retina": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_mobile_banner_retina_medium.jpg",
+                      "homepage_desktop_banner": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_desktop_banner_medium.jpg",
+                      "homepage_desktop_banner_retina": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_desktop_banner_retina_medium.jpg",
+                      "homepage_small_banner": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_small_banner_medium.jpg",
+                      "homepage_small_banner_retina": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_small_banner_retina_medium.jpg",
+                      "homepage_highlight_1_banner": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_highlight_1_banner_medium.jpg",
+                      "homepage_highlight_1_banner_retina": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_highlight_1_banner_retina_medium.jpg",
+                      "homepage_highlight_2_banner": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_highlight_2_banner_medium.jpg",
+                      "homepage_highlight_2_banner_retina": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_highlight_2_banner_retina_medium.jpg",
+                      "homepage_highlight_3_banner": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_highlight_3_banner_medium.jpg",
+                      "homepage_highlight_3_banner_retina": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_highlight_3_banner_retina_medium.jpg"
+                    }
+                  }
+                },
+                {
+                  "id": 40225,
+                  "medium": {
+                    "name": "885909629053-03",
+                    "file_name": "885909629053-03.jpg",
+                    "type": "product_image",
+                    "url": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-square_medium.jpg",
+                    "covers": {
+                      "original": "http://media.bnn.dev.maqehq.com/40231/885909629053-03.jpg",
+                      "thumbnail": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-thumbnail.jpg",
+                      "square_small": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-square_small.jpg",
+                      "square_medium": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-square_medium.jpg",
+                      "category_banner_medium": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-category_banner_medium.jpg",
+                      "homepage_mobile_banner": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_mobile_banner_medium.jpg",
+                      "homepage_mobile_banner_retina": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_mobile_banner_retina_medium.jpg",
+                      "homepage_desktop_banner": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_desktop_banner_medium.jpg",
+                      "homepage_desktop_banner_retina": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_desktop_banner_retina_medium.jpg",
+                      "homepage_small_banner": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_small_banner_medium.jpg",
+                      "homepage_small_banner_retina": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_small_banner_retina_medium.jpg",
+                      "homepage_highlight_1_banner": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_highlight_1_banner_medium.jpg",
+                      "homepage_highlight_1_banner_retina": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_highlight_1_banner_retina_medium.jpg",
+                      "homepage_highlight_2_banner": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_highlight_2_banner_medium.jpg",
+                      "homepage_highlight_2_banner_retina": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_highlight_2_banner_retina_medium.jpg",
+                      "homepage_highlight_3_banner": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_highlight_3_banner_medium.jpg",
+                      "homepage_highlight_3_banner_retina": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_highlight_3_banner_retina_medium.jpg"
+                    }
+                  }
+                }
+              ],
+              "installments_detail": [
+                {
+                  "bank_name": "ธนาคารกสิกรไทย",
+                  "months": [48],
+                  "bank_logo": "http://media.bnn.dev.maqehq.com/46649/06de555b22375811f3b904e7deefc6af.jpg"
+                }
+              ]
+            }
+          },
+          {
+            "id": 3078,
+            "quantity": 1,
+            "item": {
+              "uid": "l3xn6l",
+              "sku": "4710180707120",
+              "slug": "acer-desktop-aio-aspire-c22-962-1038g1t21mgit001-4710180707120",
+              "name": "ACER DESKTOP AIO ASPIRE C22-962-1038G1T21MGI/T001",
+              "type": "normal",
+              "brand": "ACER",
+              "selling_price": 2161000,
+              "srp_price": 2349000,
+              "free_gifts": {
+                "total_price": 0,
+                "items": []
+              },
+              "product_group_slug": "acer-desktop-aio-aspire-c22-962-1038g1t21mgit001",
+              "items_in_stock": 100,
+              "in_stock": true,
+              "is_pre_order": false,
+              "is_active": true,
+              "is_eol": false,
+              "files": [
+                {
+                  "id": 9707,
+                  "medium": {
+                    "name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01",
+                    "file_name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01.jpg",
+                    "type": "product_image",
+                    "url": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-square_medium.jpg",
+                    "covers": {
+                      "original": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01.jpg",
+                      "thumbnail": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-thumbnail.jpg",
+                      "square_small": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-square_small.jpg",
+                      "square_medium": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-square_medium.jpg",
+                      "category_banner_medium": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-category_banner_medium.jpg",
+                      "homepage_mobile_banner": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_mobile_banner_medium.jpg",
+                      "homepage_mobile_banner_retina": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_mobile_banner_retina_medium.jpg",
+                      "homepage_desktop_banner": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_desktop_banner_medium.jpg",
+                      "homepage_desktop_banner_retina": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_desktop_banner_retina_medium.jpg",
+                      "homepage_small_banner": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_small_banner_medium.jpg",
+                      "homepage_small_banner_retina": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_small_banner_retina_medium.jpg",
+                      "homepage_highlight_1_banner": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_highlight_1_banner_medium.jpg",
+                      "homepage_highlight_1_banner_retina": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_highlight_1_banner_retina_medium.jpg",
+                      "homepage_highlight_2_banner": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_highlight_2_banner_medium.jpg",
+                      "homepage_highlight_2_banner_retina": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_highlight_2_banner_retina_medium.jpg",
+                      "homepage_highlight_3_banner": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_highlight_3_banner_medium.jpg",
+                      "homepage_highlight_3_banner_retina": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_highlight_3_banner_retina_medium.jpg"
+                    }
+                  }
+                },
+                {
+                  "id": 9708,
+                  "medium": {
+                    "name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02",
+                    "file_name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02.jpg",
+                    "type": "product_image",
+                    "url": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-square_medium.jpg",
+                    "covers": {
+                      "original": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02.jpg",
+                      "thumbnail": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-thumbnail.jpg",
+                      "square_small": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-square_small.jpg",
+                      "square_medium": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-square_medium.jpg",
+                      "category_banner_medium": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-category_banner_medium.jpg",
+                      "homepage_mobile_banner": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_mobile_banner_medium.jpg",
+                      "homepage_mobile_banner_retina": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_mobile_banner_retina_medium.jpg",
+                      "homepage_desktop_banner": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_desktop_banner_medium.jpg",
+                      "homepage_desktop_banner_retina": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_desktop_banner_retina_medium.jpg",
+                      "homepage_small_banner": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_small_banner_medium.jpg",
+                      "homepage_small_banner_retina": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_small_banner_retina_medium.jpg",
+                      "homepage_highlight_1_banner": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_highlight_1_banner_medium.jpg",
+                      "homepage_highlight_1_banner_retina": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_highlight_1_banner_retina_medium.jpg",
+                      "homepage_highlight_2_banner": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_highlight_2_banner_medium.jpg",
+                      "homepage_highlight_2_banner_retina": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_highlight_2_banner_retina_medium.jpg",
+                      "homepage_highlight_3_banner": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_highlight_3_banner_medium.jpg",
+                      "homepage_highlight_3_banner_retina": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_highlight_3_banner_retina_medium.jpg"
+                    }
+                  }
+                },
+                {
+                  "id": 9709,
+                  "medium": {
+                    "name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03",
+                    "file_name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03.jpg",
+                    "type": "product_image",
+                    "url": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-square_medium.jpg",
+                    "covers": {
+                      "original": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03.jpg",
+                      "thumbnail": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-thumbnail.jpg",
+                      "square_small": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-square_small.jpg",
+                      "square_medium": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-square_medium.jpg",
+                      "category_banner_medium": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-category_banner_medium.jpg",
+                      "homepage_mobile_banner": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_mobile_banner_medium.jpg",
+                      "homepage_mobile_banner_retina": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_mobile_banner_retina_medium.jpg",
+                      "homepage_desktop_banner": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_desktop_banner_medium.jpg",
+                      "homepage_desktop_banner_retina": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_desktop_banner_retina_medium.jpg",
+                      "homepage_small_banner": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_small_banner_medium.jpg",
+                      "homepage_small_banner_retina": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_small_banner_retina_medium.jpg",
+                      "homepage_highlight_1_banner": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_highlight_1_banner_medium.jpg",
+                      "homepage_highlight_1_banner_retina": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_highlight_1_banner_retina_medium.jpg",
+                      "homepage_highlight_2_banner": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_highlight_2_banner_medium.jpg",
+                      "homepage_highlight_2_banner_retina": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_highlight_2_banner_retina_medium.jpg",
+                      "homepage_highlight_3_banner": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_highlight_3_banner_medium.jpg",
+                      "homepage_highlight_3_banner_retina": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_highlight_3_banner_retina_medium.jpg"
+                    }
+                  }
+                },
+                {
+                  "id": 9710,
+                  "medium": {
+                    "name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04",
+                    "file_name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04.jpg",
+                    "type": "product_image",
+                    "url": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-square_medium.jpg",
+                    "covers": {
+                      "original": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04.jpg",
+                      "thumbnail": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-thumbnail.jpg",
+                      "square_small": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-square_small.jpg",
+                      "square_medium": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-square_medium.jpg",
+                      "category_banner_medium": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-category_banner_medium.jpg",
+                      "homepage_mobile_banner": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_mobile_banner_medium.jpg",
+                      "homepage_mobile_banner_retina": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_mobile_banner_retina_medium.jpg",
+                      "homepage_desktop_banner": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_desktop_banner_medium.jpg",
+                      "homepage_desktop_banner_retina": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_desktop_banner_retina_medium.jpg",
+                      "homepage_small_banner": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_small_banner_medium.jpg",
+                      "homepage_small_banner_retina": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_small_banner_retina_medium.jpg",
+                      "homepage_highlight_1_banner": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_highlight_1_banner_medium.jpg",
+                      "homepage_highlight_1_banner_retina": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_highlight_1_banner_retina_medium.jpg",
+                      "homepage_highlight_2_banner": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_highlight_2_banner_medium.jpg",
+                      "homepage_highlight_2_banner_retina": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_highlight_2_banner_retina_medium.jpg",
+                      "homepage_highlight_3_banner": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_highlight_3_banner_medium.jpg",
+                      "homepage_highlight_3_banner_retina": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_highlight_3_banner_retina_medium.jpg"
+                    }
+                  }
+                },
+                {
+                  "id": 9711,
+                  "medium": {
+                    "name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05",
+                    "file_name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05.jpg",
+                    "type": "product_image",
+                    "url": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-square_medium.jpg",
+                    "covers": {
+                      "original": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05.jpg",
+                      "thumbnail": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-thumbnail.jpg",
+                      "square_small": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-square_small.jpg",
+                      "square_medium": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-square_medium.jpg",
+                      "category_banner_medium": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-category_banner_medium.jpg",
+                      "homepage_mobile_banner": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_mobile_banner_medium.jpg",
+                      "homepage_mobile_banner_retina": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_mobile_banner_retina_medium.jpg",
+                      "homepage_desktop_banner": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_desktop_banner_medium.jpg",
+                      "homepage_desktop_banner_retina": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_desktop_banner_retina_medium.jpg",
+                      "homepage_small_banner": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_small_banner_medium.jpg",
+                      "homepage_small_banner_retina": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_small_banner_retina_medium.jpg",
+                      "homepage_highlight_1_banner": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_highlight_1_banner_medium.jpg",
+                      "homepage_highlight_1_banner_retina": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_highlight_1_banner_retina_medium.jpg",
+                      "homepage_highlight_2_banner": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_highlight_2_banner_medium.jpg",
+                      "homepage_highlight_2_banner_retina": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_highlight_2_banner_retina_medium.jpg",
+                      "homepage_highlight_3_banner": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_highlight_3_banner_medium.jpg",
+                      "homepage_highlight_3_banner_retina": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_highlight_3_banner_retina_medium.jpg"
+                    }
+                  }
+                },
+                {
+                  "id": 9712,
+                  "medium": {
+                    "name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06",
+                    "file_name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06.jpg",
+                    "type": "product_image",
+                    "url": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-square_medium.jpg",
+                    "covers": {
+                      "original": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06.jpg",
+                      "thumbnail": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-thumbnail.jpg",
+                      "square_small": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-square_small.jpg",
+                      "square_medium": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-square_medium.jpg",
+                      "category_banner_medium": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-category_banner_medium.jpg",
+                      "homepage_mobile_banner": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_mobile_banner_medium.jpg",
+                      "homepage_mobile_banner_retina": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_mobile_banner_retina_medium.jpg",
+                      "homepage_desktop_banner": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_desktop_banner_medium.jpg",
+                      "homepage_desktop_banner_retina": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_desktop_banner_retina_medium.jpg",
+                      "homepage_small_banner": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_small_banner_medium.jpg",
+                      "homepage_small_banner_retina": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_small_banner_retina_medium.jpg",
+                      "homepage_highlight_1_banner": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_highlight_1_banner_medium.jpg",
+                      "homepage_highlight_1_banner_retina": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_highlight_1_banner_retina_medium.jpg",
+                      "homepage_highlight_2_banner": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_highlight_2_banner_medium.jpg",
+                      "homepage_highlight_2_banner_retina": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_highlight_2_banner_retina_medium.jpg",
+                      "homepage_highlight_3_banner": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_highlight_3_banner_medium.jpg",
+                      "homepage_highlight_3_banner_retina": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_highlight_3_banner_retina_medium.jpg"
+                    }
+                  }
+                }
+              ],
+              "installments_detail": [
+                {
+                  "bank_name": "กรุงศรีเฟิร์สชอยส์",
+                  "months": [2],
+                  "bank_logo": "http://media.bnn.dev.maqehq.com/46689/83628508_3766239386721348_6478991366113198080_n.png"
+                },
+                {
+                  "bank_name": "ธนาคารกสิกรไทย",
+                  "months": [48],
+                  "bank_logo": "http://media.bnn.dev.maqehq.com/46649/06de555b22375811f3b904e7deefc6af.jpg"
+                }
+              ]
+            }
+          },
+          {
+            "id": 13871,
+            "quantity": 2,
+            "item": {
+              "uid": "9xe4ek",
+              "sku": "888462756860",
+              "slug": "apple-acc-apple-pencil-tips-4-pack-888462756860",
+              "name": "Apple Acc Apple Pencil Tips 4 pack",
+              "type": "freebie",
+              "brand": "APPLE",
+              "selling_price": 77000,
+              "srp_price": 79000,
+              "free_gifts": {
+                "total_price": 0,
+                "items": []
+              },
+              "product_group_slug": "apple-acc-apple-pencil-tips-4-pack",
+              "items_in_stock": 787,
+              "in_stock": true,
+              "is_pre_order": null,
+              "is_active": true,
+              "is_eol": false,
+              "files": [
+                {
+                  "id": 42147,
+                  "medium": {
+                    "name": "Apple-Acc-Apple-Pencil-Tips4-pack-01",
+                    "file_name": "Apple-Acc-Apple-Pencil-Tips4-pack-01.jpg",
+                    "type": "product_image",
+                    "url": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-square_medium.jpg",
+                    "covers": {
+                      "original": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01.jpg",
+                      "thumbnail": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-thumbnail.jpg",
+                      "square_small": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-square_small.jpg",
+                      "square_medium": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-square_medium.jpg",
+                      "category_banner_medium": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-category_banner_medium.jpg",
+                      "homepage_mobile_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_mobile_banner_medium.jpg",
+                      "homepage_mobile_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_mobile_banner_retina_medium.jpg",
+                      "homepage_desktop_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_desktop_banner_medium.jpg",
+                      "homepage_desktop_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_desktop_banner_retina_medium.jpg",
+                      "homepage_small_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_small_banner_medium.jpg",
+                      "homepage_small_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_small_banner_retina_medium.jpg",
+                      "homepage_highlight_1_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_1_banner_medium.jpg",
+                      "homepage_highlight_1_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_1_banner_retina_medium.jpg",
+                      "homepage_highlight_2_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_2_banner_medium.jpg",
+                      "homepage_highlight_2_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_2_banner_retina_medium.jpg",
+                      "homepage_highlight_3_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_3_banner_medium.jpg",
+                      "homepage_highlight_3_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_3_banner_retina_medium.jpg"
+                    }
+                  }
+                }
+              ],
+              "installments_detail": [
+                {
+                  "bank_name": "ธนาคารกสิกรไทย",
+                  "months": [48],
+                  "bank_logo": "http://media.bnn.dev.maqehq.com/46649/06de555b22375811f3b904e7deefc6af.jpg"
+                }
+              ]
+            },
+            "reward_quantity": 2
+          }
+        ],
+        "end_at": "2021-04-30T16:59:00.000000Z",
+        "srp_price": null,
+        "selling_price": 2292000
+      },
+      {
+        "id": 417,
+        "type": "BUNDLE",
+        "display_name": "Set 2: Tao - Bundle + Pre-order ลด 50%",
+        "bundle_name": "Set 2: Tao - Bundle + Pre-order ลด 50%",
+        "detail_description": "รายละเอียดโปรโมชั่น Set 2: Tao - Bundle + Pre-order ลด 50%",
+        "items": [
+          {
+            "id": 13113,
+            "quantity": 1,
+            "item": {
+              "uid": "lere2v",
+              "sku": "885909629053",
+              "slug": "apple-acc-12-w-usb-power-adapter-885909629053",
+              "name": "Apple Acc 12 W USB Power Adapter",
+              "type": "normal",
+              "brand": "APPLE",
+              "selling_price": 65500,
+              "srp_price": 69000,
+              "free_gifts": {
+                "total_price": 0,
+                "items": []
+              },
+              "product_group_slug": "apple-acc-12-w-usb-power-adapter",
+              "items_in_stock": 80,
+              "in_stock": true,
+              "is_pre_order": false,
+              "is_active": true,
+              "is_eol": true,
+              "files": [
+                {
+                  "id": 40223,
+                  "medium": {
+                    "name": "885909629053-01",
+                    "file_name": "885909629053-01.jpg",
+                    "type": "product_image",
+                    "url": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-square_medium.jpg",
+                    "covers": {
+                      "original": "http://media.bnn.dev.maqehq.com/40229/885909629053-01.jpg",
+                      "thumbnail": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-thumbnail.jpg",
+                      "square_small": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-square_small.jpg",
+                      "square_medium": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-square_medium.jpg",
+                      "category_banner_medium": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-category_banner_medium.jpg",
+                      "homepage_mobile_banner": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_mobile_banner_medium.jpg",
+                      "homepage_mobile_banner_retina": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_mobile_banner_retina_medium.jpg",
+                      "homepage_desktop_banner": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_desktop_banner_medium.jpg",
+                      "homepage_desktop_banner_retina": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_desktop_banner_retina_medium.jpg",
+                      "homepage_small_banner": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_small_banner_medium.jpg",
+                      "homepage_small_banner_retina": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_small_banner_retina_medium.jpg",
+                      "homepage_highlight_1_banner": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_highlight_1_banner_medium.jpg",
+                      "homepage_highlight_1_banner_retina": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_highlight_1_banner_retina_medium.jpg",
+                      "homepage_highlight_2_banner": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_highlight_2_banner_medium.jpg",
+                      "homepage_highlight_2_banner_retina": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_highlight_2_banner_retina_medium.jpg",
+                      "homepage_highlight_3_banner": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_highlight_3_banner_medium.jpg",
+                      "homepage_highlight_3_banner_retina": "http://media.bnn.dev.maqehq.com/40229/885909629053-01-homepage_highlight_3_banner_retina_medium.jpg"
+                    }
+                  }
+                },
+                {
+                  "id": 40224,
+                  "medium": {
+                    "name": "885909629053-02",
+                    "file_name": "885909629053-02.jpg",
+                    "type": "product_image",
+                    "url": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-square_medium.jpg",
+                    "covers": {
+                      "original": "http://media.bnn.dev.maqehq.com/40230/885909629053-02.jpg",
+                      "thumbnail": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-thumbnail.jpg",
+                      "square_small": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-square_small.jpg",
+                      "square_medium": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-square_medium.jpg",
+                      "category_banner_medium": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-category_banner_medium.jpg",
+                      "homepage_mobile_banner": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_mobile_banner_medium.jpg",
+                      "homepage_mobile_banner_retina": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_mobile_banner_retina_medium.jpg",
+                      "homepage_desktop_banner": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_desktop_banner_medium.jpg",
+                      "homepage_desktop_banner_retina": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_desktop_banner_retina_medium.jpg",
+                      "homepage_small_banner": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_small_banner_medium.jpg",
+                      "homepage_small_banner_retina": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_small_banner_retina_medium.jpg",
+                      "homepage_highlight_1_banner": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_highlight_1_banner_medium.jpg",
+                      "homepage_highlight_1_banner_retina": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_highlight_1_banner_retina_medium.jpg",
+                      "homepage_highlight_2_banner": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_highlight_2_banner_medium.jpg",
+                      "homepage_highlight_2_banner_retina": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_highlight_2_banner_retina_medium.jpg",
+                      "homepage_highlight_3_banner": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_highlight_3_banner_medium.jpg",
+                      "homepage_highlight_3_banner_retina": "http://media.bnn.dev.maqehq.com/40230/885909629053-02-homepage_highlight_3_banner_retina_medium.jpg"
+                    }
+                  }
+                },
+                {
+                  "id": 40225,
+                  "medium": {
+                    "name": "885909629053-03",
+                    "file_name": "885909629053-03.jpg",
+                    "type": "product_image",
+                    "url": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-square_medium.jpg",
+                    "covers": {
+                      "original": "http://media.bnn.dev.maqehq.com/40231/885909629053-03.jpg",
+                      "thumbnail": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-thumbnail.jpg",
+                      "square_small": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-square_small.jpg",
+                      "square_medium": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-square_medium.jpg",
+                      "category_banner_medium": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-category_banner_medium.jpg",
+                      "homepage_mobile_banner": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_mobile_banner_medium.jpg",
+                      "homepage_mobile_banner_retina": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_mobile_banner_retina_medium.jpg",
+                      "homepage_desktop_banner": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_desktop_banner_medium.jpg",
+                      "homepage_desktop_banner_retina": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_desktop_banner_retina_medium.jpg",
+                      "homepage_small_banner": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_small_banner_medium.jpg",
+                      "homepage_small_banner_retina": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_small_banner_retina_medium.jpg",
+                      "homepage_highlight_1_banner": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_highlight_1_banner_medium.jpg",
+                      "homepage_highlight_1_banner_retina": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_highlight_1_banner_retina_medium.jpg",
+                      "homepage_highlight_2_banner": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_highlight_2_banner_medium.jpg",
+                      "homepage_highlight_2_banner_retina": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_highlight_2_banner_retina_medium.jpg",
+                      "homepage_highlight_3_banner": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_highlight_3_banner_medium.jpg",
+                      "homepage_highlight_3_banner_retina": "http://media.bnn.dev.maqehq.com/40231/885909629053-03-homepage_highlight_3_banner_retina_medium.jpg"
+                    }
+                  }
+                }
+              ],
+              "installments_detail": [
+                {
+                  "bank_name": "ธนาคารกสิกรไทย",
+                  "months": [48],
+                  "bank_logo": "http://media.bnn.dev.maqehq.com/46649/06de555b22375811f3b904e7deefc6af.jpg"
+                }
+              ]
+            }
+          },
+          {
+            "id": 3078,
+            "quantity": 2,
+            "item": {
+              "uid": "l3xn6l",
+              "sku": "4710180707120",
+              "slug": "acer-desktop-aio-aspire-c22-962-1038g1t21mgit001-4710180707120",
+              "name": "ACER DESKTOP AIO ASPIRE C22-962-1038G1T21MGI/T001",
+              "type": "normal",
+              "brand": "ACER",
+              "selling_price": 2161000,
+              "srp_price": 2349000,
+              "free_gifts": {
+                "total_price": 0,
+                "items": []
+              },
+              "product_group_slug": "acer-desktop-aio-aspire-c22-962-1038g1t21mgit001",
+              "items_in_stock": 100,
+              "in_stock": true,
+              "is_pre_order": false,
+              "is_active": true,
+              "is_eol": false,
+              "files": [
+                {
+                  "id": 9707,
+                  "medium": {
+                    "name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01",
+                    "file_name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01.jpg",
+                    "type": "product_image",
+                    "url": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-square_medium.jpg",
+                    "covers": {
+                      "original": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01.jpg",
+                      "thumbnail": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-thumbnail.jpg",
+                      "square_small": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-square_small.jpg",
+                      "square_medium": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-square_medium.jpg",
+                      "category_banner_medium": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-category_banner_medium.jpg",
+                      "homepage_mobile_banner": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_mobile_banner_medium.jpg",
+                      "homepage_mobile_banner_retina": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_mobile_banner_retina_medium.jpg",
+                      "homepage_desktop_banner": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_desktop_banner_medium.jpg",
+                      "homepage_desktop_banner_retina": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_desktop_banner_retina_medium.jpg",
+                      "homepage_small_banner": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_small_banner_medium.jpg",
+                      "homepage_small_banner_retina": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_small_banner_retina_medium.jpg",
+                      "homepage_highlight_1_banner": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_highlight_1_banner_medium.jpg",
+                      "homepage_highlight_1_banner_retina": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_highlight_1_banner_retina_medium.jpg",
+                      "homepage_highlight_2_banner": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_highlight_2_banner_medium.jpg",
+                      "homepage_highlight_2_banner_retina": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_highlight_2_banner_retina_medium.jpg",
+                      "homepage_highlight_3_banner": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_highlight_3_banner_medium.jpg",
+                      "homepage_highlight_3_banner_retina": "http://media.bnn.dev.maqehq.com/9713/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-01-homepage_highlight_3_banner_retina_medium.jpg"
+                    }
+                  }
+                },
+                {
+                  "id": 9708,
+                  "medium": {
+                    "name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02",
+                    "file_name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02.jpg",
+                    "type": "product_image",
+                    "url": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-square_medium.jpg",
+                    "covers": {
+                      "original": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02.jpg",
+                      "thumbnail": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-thumbnail.jpg",
+                      "square_small": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-square_small.jpg",
+                      "square_medium": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-square_medium.jpg",
+                      "category_banner_medium": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-category_banner_medium.jpg",
+                      "homepage_mobile_banner": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_mobile_banner_medium.jpg",
+                      "homepage_mobile_banner_retina": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_mobile_banner_retina_medium.jpg",
+                      "homepage_desktop_banner": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_desktop_banner_medium.jpg",
+                      "homepage_desktop_banner_retina": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_desktop_banner_retina_medium.jpg",
+                      "homepage_small_banner": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_small_banner_medium.jpg",
+                      "homepage_small_banner_retina": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_small_banner_retina_medium.jpg",
+                      "homepage_highlight_1_banner": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_highlight_1_banner_medium.jpg",
+                      "homepage_highlight_1_banner_retina": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_highlight_1_banner_retina_medium.jpg",
+                      "homepage_highlight_2_banner": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_highlight_2_banner_medium.jpg",
+                      "homepage_highlight_2_banner_retina": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_highlight_2_banner_retina_medium.jpg",
+                      "homepage_highlight_3_banner": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_highlight_3_banner_medium.jpg",
+                      "homepage_highlight_3_banner_retina": "http://media.bnn.dev.maqehq.com/9714/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-02-homepage_highlight_3_banner_retina_medium.jpg"
+                    }
+                  }
+                },
+                {
+                  "id": 9709,
+                  "medium": {
+                    "name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03",
+                    "file_name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03.jpg",
+                    "type": "product_image",
+                    "url": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-square_medium.jpg",
+                    "covers": {
+                      "original": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03.jpg",
+                      "thumbnail": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-thumbnail.jpg",
+                      "square_small": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-square_small.jpg",
+                      "square_medium": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-square_medium.jpg",
+                      "category_banner_medium": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-category_banner_medium.jpg",
+                      "homepage_mobile_banner": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_mobile_banner_medium.jpg",
+                      "homepage_mobile_banner_retina": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_mobile_banner_retina_medium.jpg",
+                      "homepage_desktop_banner": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_desktop_banner_medium.jpg",
+                      "homepage_desktop_banner_retina": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_desktop_banner_retina_medium.jpg",
+                      "homepage_small_banner": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_small_banner_medium.jpg",
+                      "homepage_small_banner_retina": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_small_banner_retina_medium.jpg",
+                      "homepage_highlight_1_banner": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_highlight_1_banner_medium.jpg",
+                      "homepage_highlight_1_banner_retina": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_highlight_1_banner_retina_medium.jpg",
+                      "homepage_highlight_2_banner": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_highlight_2_banner_medium.jpg",
+                      "homepage_highlight_2_banner_retina": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_highlight_2_banner_retina_medium.jpg",
+                      "homepage_highlight_3_banner": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_highlight_3_banner_medium.jpg",
+                      "homepage_highlight_3_banner_retina": "http://media.bnn.dev.maqehq.com/9715/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-03-homepage_highlight_3_banner_retina_medium.jpg"
+                    }
+                  }
+                },
+                {
+                  "id": 9710,
+                  "medium": {
+                    "name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04",
+                    "file_name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04.jpg",
+                    "type": "product_image",
+                    "url": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-square_medium.jpg",
+                    "covers": {
+                      "original": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04.jpg",
+                      "thumbnail": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-thumbnail.jpg",
+                      "square_small": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-square_small.jpg",
+                      "square_medium": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-square_medium.jpg",
+                      "category_banner_medium": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-category_banner_medium.jpg",
+                      "homepage_mobile_banner": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_mobile_banner_medium.jpg",
+                      "homepage_mobile_banner_retina": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_mobile_banner_retina_medium.jpg",
+                      "homepage_desktop_banner": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_desktop_banner_medium.jpg",
+                      "homepage_desktop_banner_retina": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_desktop_banner_retina_medium.jpg",
+                      "homepage_small_banner": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_small_banner_medium.jpg",
+                      "homepage_small_banner_retina": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_small_banner_retina_medium.jpg",
+                      "homepage_highlight_1_banner": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_highlight_1_banner_medium.jpg",
+                      "homepage_highlight_1_banner_retina": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_highlight_1_banner_retina_medium.jpg",
+                      "homepage_highlight_2_banner": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_highlight_2_banner_medium.jpg",
+                      "homepage_highlight_2_banner_retina": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_highlight_2_banner_retina_medium.jpg",
+                      "homepage_highlight_3_banner": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_highlight_3_banner_medium.jpg",
+                      "homepage_highlight_3_banner_retina": "http://media.bnn.dev.maqehq.com/9716/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-04-homepage_highlight_3_banner_retina_medium.jpg"
+                    }
+                  }
+                },
+                {
+                  "id": 9711,
+                  "medium": {
+                    "name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05",
+                    "file_name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05.jpg",
+                    "type": "product_image",
+                    "url": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-square_medium.jpg",
+                    "covers": {
+                      "original": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05.jpg",
+                      "thumbnail": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-thumbnail.jpg",
+                      "square_small": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-square_small.jpg",
+                      "square_medium": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-square_medium.jpg",
+                      "category_banner_medium": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-category_banner_medium.jpg",
+                      "homepage_mobile_banner": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_mobile_banner_medium.jpg",
+                      "homepage_mobile_banner_retina": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_mobile_banner_retina_medium.jpg",
+                      "homepage_desktop_banner": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_desktop_banner_medium.jpg",
+                      "homepage_desktop_banner_retina": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_desktop_banner_retina_medium.jpg",
+                      "homepage_small_banner": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_small_banner_medium.jpg",
+                      "homepage_small_banner_retina": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_small_banner_retina_medium.jpg",
+                      "homepage_highlight_1_banner": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_highlight_1_banner_medium.jpg",
+                      "homepage_highlight_1_banner_retina": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_highlight_1_banner_retina_medium.jpg",
+                      "homepage_highlight_2_banner": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_highlight_2_banner_medium.jpg",
+                      "homepage_highlight_2_banner_retina": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_highlight_2_banner_retina_medium.jpg",
+                      "homepage_highlight_3_banner": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_highlight_3_banner_medium.jpg",
+                      "homepage_highlight_3_banner_retina": "http://media.bnn.dev.maqehq.com/9717/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-05-homepage_highlight_3_banner_retina_medium.jpg"
+                    }
+                  }
+                },
+                {
+                  "id": 9712,
+                  "medium": {
+                    "name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06",
+                    "file_name": "ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06.jpg",
+                    "type": "product_image",
+                    "url": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-square_medium.jpg",
+                    "covers": {
+                      "original": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06.jpg",
+                      "thumbnail": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-thumbnail.jpg",
+                      "square_small": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-square_small.jpg",
+                      "square_medium": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-square_medium.jpg",
+                      "category_banner_medium": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-category_banner_medium.jpg",
+                      "homepage_mobile_banner": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_mobile_banner_medium.jpg",
+                      "homepage_mobile_banner_retina": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_mobile_banner_retina_medium.jpg",
+                      "homepage_desktop_banner": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_desktop_banner_medium.jpg",
+                      "homepage_desktop_banner_retina": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_desktop_banner_retina_medium.jpg",
+                      "homepage_small_banner": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_small_banner_medium.jpg",
+                      "homepage_small_banner_retina": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_small_banner_retina_medium.jpg",
+                      "homepage_highlight_1_banner": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_highlight_1_banner_medium.jpg",
+                      "homepage_highlight_1_banner_retina": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_highlight_1_banner_retina_medium.jpg",
+                      "homepage_highlight_2_banner": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_highlight_2_banner_medium.jpg",
+                      "homepage_highlight_2_banner_retina": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_highlight_2_banner_retina_medium.jpg",
+                      "homepage_highlight_3_banner": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_highlight_3_banner_medium.jpg",
+                      "homepage_highlight_3_banner_retina": "http://media.bnn.dev.maqehq.com/9718/ACER-DESKTOP-AIO-ASPIRE-C22-962-1038G1T21MGI-T001-06-homepage_highlight_3_banner_retina_medium.jpg"
+                    }
+                  }
+                }
+              ],
+              "installments_detail": [
+                {
+                  "bank_name": "กรุงศรีเฟิร์สชอยส์",
+                  "months": [2],
+                  "bank_logo": "http://media.bnn.dev.maqehq.com/46689/83628508_3766239386721348_6478991366113198080_n.png"
+                },
+                {
+                  "bank_name": "ธนาคารกสิกรไทย",
+                  "months": [48],
+                  "bank_logo": "http://media.bnn.dev.maqehq.com/46649/06de555b22375811f3b904e7deefc6af.jpg"
+                }
+              ]
+            }
+          },
+          {
+            "id": 13871,
+            "quantity": 2,
+            "item": {
+              "uid": "9xe4ek",
+              "sku": "888462756860",
+              "slug": "apple-acc-apple-pencil-tips-4-pack-888462756860",
+              "name": "Apple Acc Apple Pencil Tips 4 pack",
+              "type": "freebie",
+              "brand": "APPLE",
+              "selling_price": 77000,
+              "srp_price": 79000,
+              "free_gifts": {
+                "total_price": 0,
+                "items": []
+              },
+              "product_group_slug": "apple-acc-apple-pencil-tips-4-pack",
+              "items_in_stock": 787,
+              "in_stock": true,
+              "is_pre_order": null,
+              "is_active": true,
+              "is_eol": false,
+              "files": [
+                {
+                  "id": 42147,
+                  "medium": {
+                    "name": "Apple-Acc-Apple-Pencil-Tips4-pack-01",
+                    "file_name": "Apple-Acc-Apple-Pencil-Tips4-pack-01.jpg",
+                    "type": "product_image",
+                    "url": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-square_medium.jpg",
+                    "covers": {
+                      "original": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01.jpg",
+                      "thumbnail": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-thumbnail.jpg",
+                      "square_small": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-square_small.jpg",
+                      "square_medium": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-square_medium.jpg",
+                      "category_banner_medium": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-category_banner_medium.jpg",
+                      "homepage_mobile_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_mobile_banner_medium.jpg",
+                      "homepage_mobile_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_mobile_banner_retina_medium.jpg",
+                      "homepage_desktop_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_desktop_banner_medium.jpg",
+                      "homepage_desktop_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_desktop_banner_retina_medium.jpg",
+                      "homepage_small_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_small_banner_medium.jpg",
+                      "homepage_small_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_small_banner_retina_medium.jpg",
+                      "homepage_highlight_1_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_1_banner_medium.jpg",
+                      "homepage_highlight_1_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_1_banner_retina_medium.jpg",
+                      "homepage_highlight_2_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_2_banner_medium.jpg",
+                      "homepage_highlight_2_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_2_banner_retina_medium.jpg",
+                      "homepage_highlight_3_banner": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_3_banner_medium.jpg",
+                      "homepage_highlight_3_banner_retina": "http://media.bnn.dev.maqehq.com/42153/Apple-Acc-Apple-Pencil-Tips4-pack-01-homepage_highlight_3_banner_retina_medium.jpg"
+                    }
+                  }
+                }
+              ],
+              "installments_detail": [
+                {
+                  "bank_name": "ธนาคารกสิกรไทย",
+                  "months": [48],
+                  "bank_logo": "http://media.bnn.dev.maqehq.com/46649/06de555b22375811f3b904e7deefc6af.jpg"
+                }
+              ]
+            },
+            "reward_quantity": 2
+          }
+        ],
+        "end_at": "2021-04-30T16:59:00.000000Z",
+        "srp_price": null,
+        "selling_price": 4387500
+      }
+    ]
+  }
+}
