@@ -7,7 +7,7 @@ describe('Rabbit finance test', () => {
             	
 		});
 		it('The user can select product IPD/OPD and get the data correctly', () => {
-            cy.intercept('GET', 'https://staging-finance.rabbitinternet.com/_next/data/0QGnfdq-5kXWArQOoQCj-/en/product/health-insurance/quotes.json', {
+            cy.intercept('GET', '**/product/health-insurance/quotes.json', {
                 statusCode: 401,
                 
             }).as('bypass');
@@ -42,7 +42,7 @@ describe('Rabbit finance test', () => {
                     
             });
             it('The user can select product Specific Disease and get the data correctly', () => {
-                cy.intercept('GET', 'https://staging-finance.rabbitinternet.com/_next/data/0QGnfdq-5kXWArQOoQCj-/en/product/health-insurance/quotes.json', {
+                cy.intercept('GET', '**/product/health-insurance/quotes.json', {
                     statusCode: 401,
                     
                 }).as('bypass');
@@ -76,7 +76,7 @@ describe('Rabbit finance test', () => {
                     
             });
             it('The user can select product personal accident and get the data correctly', () => {
-                cy.intercept('GET', 'https://staging-finance.rabbitinternet.com/_next/data/0QGnfdq-5kXWArQOoQCj-/en/product/health-insurance/quotes.json', {
+                cy.intercept('GET', '**/product/health-insurance/quotes.json', {
                     statusCode: 401,
                     
                 }).as('bypass');
