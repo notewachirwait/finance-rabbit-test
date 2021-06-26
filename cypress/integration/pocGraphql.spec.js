@@ -6,7 +6,7 @@
 it("test graphql", () => {
   const name = "wachirawit.th@ku.th";
   assert.equal(name, Cypress.env("username"));
-  
+
     const query = `{
       countries {
         name
@@ -49,7 +49,6 @@ it("test graphql", () => {
   });
   
   it("test graphql multation", () => {
-    cy.log(Cypress.env("test"));
     const mutation = `mutation{
           createComment(text:"1223")
           {
@@ -65,7 +64,6 @@ it("test graphql", () => {
       failOnStatusCode: false,
     }).then((res) => {
       cy.log(res);
-      // cy.log(res.body.data.allUsers[1]);
     });
   });
   
