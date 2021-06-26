@@ -10,4 +10,5 @@ textpattern/
 HISTORY.txt
 README.txt
 node_modules
-
+# dotenv environment variables file
+.env
