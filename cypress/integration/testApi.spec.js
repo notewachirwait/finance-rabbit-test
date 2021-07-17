@@ -1,7 +1,7 @@
 describe('User signup', () => {
 	it('Should log the username from .env  correctly', () => {
 		const test ={
-			"email":"wachirawit.th1@ku.th",
+			"email":"wachirawit.th+9@ku.th",
             "password":"Maqe+",
             "confirmedPassword":"Maqe4+",
             "isConsent":"false",

@@ -1,23 +1,26 @@
+
 import SELECTORS from '../enum/selector';
 
 describe('Rabbit finance test', () => {
 	describe('The user can select insurance product IPD/OPD correctly', () => {
 		before(() => {
-			cy.visit('/en/product/health-insurance/questions');
-            	
+			cy.visit('/en/product/health-insurance/questions');	
 		});
 		it('The user can select product IPD/OPD and get the data correctly', () => {
             cy.intercept('GET', '**/product/health-insurance/quotes.json', {
                 statusCode: 401,
                 
             }).as('bypass');
-    
+        
             cy.get(SELECTORS.IPD_LABEL).click();
             cy.get(SELECTORS.SALARYMAN_LABEL).click();
+            cy.percySnapshot('Test');
+            cy.get('[name="customer_nationality"]').select('Thailand').should('have.value','A102');
             cy.get(SELECTORS.INPUT_PHONE_NUMBER).type('0982705677');
             cy.get(SELECTORS.BUTTON_NEXT_PHONE_NUMBER).click();
             cy.get(SELECTORS.INPUT_FIRST_NAME).type('note');
             cy.get(SELECTORS.INPUT_LAST_NAME).type('notetest');
+            cy.percySnapshot('Test');
             cy.get(SELECTORS.BUTTON_NEXT_NAME).click();
             cy.get(SELECTORS.INPUT_EMAIL).type('note@hotmail.com');
             cy.get('#customer_email > :nth-child(2) > .col-12 > .btn').click();
@@ -49,6 +52,7 @@ describe('Rabbit finance test', () => {
 
                 cy.get(SELECTORS.BUTTON_DISEASE).click();
                 cy.get(SELECTORS.BUTTON_OFFICE_SYDROME).click();
+                cy.get('[name="customer_nationality"]').select('Thailand').should('have.value','A102');
                 cy.get(SELECTORS.INPUT_PHONE_NUMBER).type('0982705677');
                 cy.get(SELECTORS.BUTTON_NEXT_PHONE_NUMBER).click();
                 cy.get(SELECTORS.INPUT_FIRST_NAME).type('note');
@@ -83,6 +87,7 @@ describe('Rabbit finance test', () => {
 
                 cy.get(SELECTORS.BUTTON_PA).click();
                 cy.get(SELECTORS.BUTTON_EXTREME_SPORT).click();
+                cy.get('[name="customer_nationality"]').select('Thailand').should('have.value','A102');
                 cy.get(SELECTORS.INPUT_PHONE_NUMBER).type('0982705677');
                 cy.get(SELECTORS.BUTTON_NEXT_PHONE_NUMBER).click();
                 cy.get(SELECTORS.INPUT_FIRST_NAME).type('note');
