@@ -1,15 +1,18 @@
+import {
+	randomEmail
+} from '../../helpers/random.js';
 describe('User signup', () => {
 	it('Should log the username from .env  correctly', () => {
 		const test ={
-			"email":"wachirawit.th+9@ku.th",
-            "password":"Maqe+",
-            "confirmedPassword":"Maqe4+",
-            "isConsent":"false",
+			"email":`${randomEmail}@ku.th`,
+            "password":"Maqe1234+",
+            "confirmedPassword":"Maqe1234+",
+            "isConsent":"true",
             "versionId": 1
 		};
 		cy.request({
 			method: 'POST',
-			url: 'https://api.xcp.dev.maqehq.com/api/v1/customers',
+			url: Cypress.env("url"),
 			failOnStatusCode: false,
 			body:test
             ,
