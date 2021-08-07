@@ -9,6 +9,6 @@ sites/site*/public/theme/
 textpattern/
 HISTORY.txt
 README.txt
-node_modules
+node_modules/
 # dotenv environment variables file
 .env
