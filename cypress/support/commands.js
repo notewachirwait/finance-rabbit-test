@@ -7,3 +7,13 @@ Cypress.Commands.add('currencyFormatter', (response) => {
 	return thai;
 
 });
+
+Cypress.Commands.add('register', (data) => {
+	cy.request({
+		failOnStatusCode: false,
+		method: 'POST',
+		url: Cypress.env("url"),
+
+		body: data,
+	});
+});
