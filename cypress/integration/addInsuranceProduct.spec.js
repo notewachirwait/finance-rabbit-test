@@ -35,7 +35,6 @@ describe('Rabbit finance test', () => {
             cy.get(SELECTORS.DROP_DOWN_HEALTH_CATEGORY).select('IPD/OPD').should('have.value', 'ipdOpd');
             cy.get(SELECTORS.DROP_DOWN_TYPE).eq(2).select('Salary man').should('have.value', 'salaryMan');
             cy.get(SELECTORS.BUTTON_APPLY).click();
-           
 
 		});
 		});
