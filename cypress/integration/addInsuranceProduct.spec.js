@@ -1,6 +1,5 @@
 
 import SELECTORS from '../enum/selector';
-
 describe('Rabbit finance test', () => {
 	describe('The user can select insurance product IPD/OPD correctly', () => {
 		before(() => {
@@ -11,7 +10,7 @@ describe('Rabbit finance test', () => {
                 statusCode: 401,
                 
             }).as('bypass');
-        
+            
             cy.get(SELECTORS.IPD_LABEL).click();
             cy.get(SELECTORS.SALARYMAN_LABEL).click();
             cy.percySnapshot('Test');
@@ -48,7 +47,7 @@ describe('Rabbit finance test', () => {
                     statusCode: 401,
                     
                 }).as('bypass');
-
+                cy.
                 cy.get(SELECTORS.BUTTON_DISEASE).click();
                 cy.get(SELECTORS.BUTTON_OFFICE_SYDROME).click();
                 cy.get('[name="customer_nationality"]').select('Thailand').should('have.value','A102');

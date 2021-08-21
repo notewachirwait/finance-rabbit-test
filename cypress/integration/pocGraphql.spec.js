@@ -1,8 +1,6 @@
 
 ///#https://lucasconstantino.github.io/graphiql-online/
 
-
-
 it("test graphql", () => {
   const name = "wachirawit.th@ku.th";
   assert.equal(name, Cypress.env("username"));
