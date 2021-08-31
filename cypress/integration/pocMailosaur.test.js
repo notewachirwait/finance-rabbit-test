@@ -17,6 +17,7 @@ describe('Password reset success', () => {
     cy.mailosaurListMessages(serverId, { receivedAfter: new Date(2020, 1, 1) }).then((result) => {
     let linkResetpassword = result.items[0].summary;
     link = linkResetpassword;
+    console.log(link);
 
 });
     });
