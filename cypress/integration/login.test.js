@@ -1,12 +1,12 @@
-
-
 import SELECTORS from '../enum/login';
 import {
 	userEmail,
-	userEmailInvalid, userEmailIsnotVerify,
+	userEmailInvalid, 
+	userEmailIsnotVerify,
 } from '../userInformation/userData';
 
 describe('The user login', () => {
+	
 	const baseUrl = (Cypress.env('urlX'));
 	before(() => {
 		cy.visit(`${baseUrl}/auth/login`);
@@ -15,13 +15,14 @@ describe('The user login', () => {
 		cy.intercept('POST', 'https://cognito-idp.ap-southeast-1.amazonaws.com/', { fixture: 'login.json', statusCode: 400 }).as('tooManyAttempts');
 
 		cy.login(userEmailInvalid.email, userEmailInvalid.password);
+	
 
 		// verify response 400 too many attempts
 		cy.wait('@tooManyAttempts').its('response.statusCode').should('eq', 400);
 		cy.get(SELECTORS.errorMessage).should('contain.text', 'Too many failed attempts. Please try again later');
 	});
 
-	it.only('The user login without verify email and click to resend for sent email verification', () => {
+	it('The user login without verify email and click to resend for sent email verification', () => {
 		cy.login(userEmailIsnotVerify.email, userEmailIsnotVerify.password);
 		cy.get(SELECTORS.verificationEmail)
 			.should(($verification) => {

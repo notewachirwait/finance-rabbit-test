@@ -5,6 +5,7 @@
 	"defaultCommandTimeout": 15000,
 	"requestTimeout": 40000,
 	"responseTimeout": 40000,
+	"supportFile": "cypress/support/commands/index.js",
 	"chromeWebSecurity": false,
     "baseUrl": "https://staging-finance.rabbitinternet.com",
     "projectId": "5355dy",

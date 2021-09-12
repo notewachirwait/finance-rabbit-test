@@ -1,4 +1,3 @@
-import SELECTORS from '../enum/login';
 Cypress.Commands.add('currencyFormatter', (response) => {
 	// Create the date in UTC so its always the same
 	// no matter what local timezone the browser is running in
@@ -17,14 +16,6 @@ Cypress.Commands.add('register', (data) => {
 
 		body: data,
 	});
-});
-
-
-
-Cypress.Commands.add('login', (email, password) => {
-	cy.get(SELECTORS.userNameField).clear().type(email);
-	cy.get(SELECTORS.passwordField).clear().type(password);
-	cy.get(SELECTORS.loginButton).click();
 });
 
 

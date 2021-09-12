@@ -1,0 +1,26 @@
+{
+    "data":[
+       {
+          "id":46,
+          "symbol":"BTCTHB",
+          "order":1,
+          "baseCurrency":"BTC",
+          "quoteCurrency":"THB",
+          "quoteDecimalPlace":2,
+          "baseDecimalPlace":8,
+          "priceXsizeDecimalPlace":10,
+          "price":1694915.85,
+          "open24h":1646518.82,
+          "volume24h":"9455.21599165",
+          "low24h":1643215.28,
+          "high24h":1711247.76,
+          "volume30day":"331079.84150982",
+          "pctChange24h":{
+             "direction":"up",
+             "change":2.94
+          },
+          "isNew":false,
+          "createdAt":"2021-07-14T09:45:18.000Z"
+       }
+    ]
+ }
