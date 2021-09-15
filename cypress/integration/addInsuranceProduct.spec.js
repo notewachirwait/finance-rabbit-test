@@ -13,15 +13,14 @@ describe('Rabbit finance test', () => {
             
             cy.get(SELECTORS.IPD_LABEL).click();
             cy.get(SELECTORS.SALARYMAN_LABEL).click();
-            cy.percySnapshot('Test');
             cy.get('[name="customer_nationality"]').select('Thailand').should('have.value','A102');
             cy.get(SELECTORS.INPUT_PHONE_NUMBER).type('0982705677');
             cy.get(SELECTORS.BUTTON_NEXT_PHONE_NUMBER).click();
             cy.get(SELECTORS.INPUT_FIRST_NAME).type('note');
             cy.get(SELECTORS.INPUT_LAST_NAME).type('notetest');
-            cy.percySnapshot('Test');
             cy.get(SELECTORS.BUTTON_NEXT_NAME).click();
             cy.get(SELECTORS.INPUT_EMAIL).type('note@hotmail.com');
+            cy.get(SELECTORS.INPUT_EMAIL).click();
             cy.get('#customer_email > :nth-child(2) > .col-12 > .btn').click();
             cy.get(SELECTORS.BUTTON_GENDER_MALE).click();
             cy.get(SELECTORS.INPUT_DATE).type('260497');
@@ -47,7 +46,7 @@ describe('Rabbit finance test', () => {
                     statusCode: 401,
                     
                 }).as('bypass');
-                cy.
+
                 cy.get(SELECTORS.BUTTON_DISEASE).click();
                 cy.get(SELECTORS.BUTTON_OFFICE_SYDROME).click();
                 cy.get('[name="customer_nationality"]').select('Thailand').should('have.value','A102');
@@ -57,6 +56,7 @@ describe('Rabbit finance test', () => {
                 cy.get(SELECTORS.INPUT_LAST_NAME).type('notetest');
                 cy.get(SELECTORS.BUTTON_NEXT_NAME).click();
                 cy.get(SELECTORS.INPUT_EMAIL).type('note@hotmail.com');
+                cy.get(SELECTORS.INPUT_EMAIL).click();
                 cy.get('#customer_email > :nth-child(2) > .col-12 > .btn').click();
                 cy.get(SELECTORS.BUTTON_GENDER_MALE).click();
                 cy.get(SELECTORS.INPUT_DATE).type('260497');
@@ -92,6 +92,7 @@ describe('Rabbit finance test', () => {
                 cy.get(SELECTORS.INPUT_LAST_NAME).type('notetest');
                 cy.get(SELECTORS.BUTTON_NEXT_NAME).click();
                 cy.get(SELECTORS.INPUT_EMAIL).type('note@hotmail.com');
+                cy.get(SELECTORS.INPUT_EMAIL).click();
                 cy.get('#customer_email > :nth-child(2) > .col-12 > .btn').click();
                 cy.get(SELECTORS.BUTTON_GENDER_MALE).click();
                 cy.get(SELECTORS.INPUT_DATE).type('260497');
