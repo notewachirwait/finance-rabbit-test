@@ -1,9 +1,10 @@
 
 ///#https://lucasconstantino.github.io/graphiql-online/
 let token;
-const urlZ =  Cypress.env("urlZ");
+const urlZ =  Cypress.env("api_url");
 it("test api", () => {
   const name = "wachirawit.th@ku.th";
+  cy.log(Cypress.env("test"));
   assert.equal(name, Cypress.env("username"));
 
     const query = `{
