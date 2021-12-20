@@ -1,2 +1,3 @@
-import './auth';
-import './api';
+import "./auth";
+import "./api";
+import "@percy/cypress";
